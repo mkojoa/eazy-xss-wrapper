@@ -9,7 +9,14 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "eazy.xss.wrapper", "src\eaz
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "sample", "sample", "{327B0296-E2CD-452F-9B8D-4ED7DAA3FD6E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eazy.xss.wrapper.sample", "sample\eazy.xss.wrapper.sample\eazy.xss.wrapper.sample.csproj", "{EC97BA3B-B4A1-4F67-8FC2-115B45D9FA16}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "eazy.xss.wrapper.sample", "sample\eazy.xss.wrapper.sample\eazy.xss.wrapper.sample.csproj", "{EC97BA3B-B4A1-4F67-8FC2-115B45D9FA16}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{953B22AE-BF92-4905-9C0B-31246B87F12C}"
+	ProjectSection(SolutionItems) = preProject
+		.gitattributes = .gitattributes
+		.gitignore = .gitignore
+		README.md = README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
