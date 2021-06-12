@@ -7,10 +7,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{AE2DF9F0-21A
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "eazy.xss.wrapper", "src\eazy.xss.wrapper\eazy.xss.wrapper.csproj", "{C80238A3-5754-4A9D-B322-BA8F150C3C25}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "sample", "sample", "{327B0296-E2CD-452F-9B8D-4ED7DAA3FD6E}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "eazy.xss.wrapper.sample", "sample\eazy.xss.wrapper.sample\eazy.xss.wrapper.sample.csproj", "{EC97BA3B-B4A1-4F67-8FC2-115B45D9FA16}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{953B22AE-BF92-4905-9C0B-31246B87F12C}"
 	ProjectSection(SolutionItems) = preProject
 		.gitattributes = .gitattributes
@@ -28,17 +24,12 @@ Global
 		{C80238A3-5754-4A9D-B322-BA8F150C3C25}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C80238A3-5754-4A9D-B322-BA8F150C3C25}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C80238A3-5754-4A9D-B322-BA8F150C3C25}.Release|Any CPU.Build.0 = Release|Any CPU
-		{EC97BA3B-B4A1-4F67-8FC2-115B45D9FA16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EC97BA3B-B4A1-4F67-8FC2-115B45D9FA16}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EC97BA3B-B4A1-4F67-8FC2-115B45D9FA16}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EC97BA3B-B4A1-4F67-8FC2-115B45D9FA16}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{C80238A3-5754-4A9D-B322-BA8F150C3C25} = {AE2DF9F0-21A9-461C-B69A-3038457ABBCD}
-		{EC97BA3B-B4A1-4F67-8FC2-115B45D9FA16} = {327B0296-E2CD-452F-9B8D-4ED7DAA3FD6E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2427FBD5-099A-494C-A4C5-C4CF5027A917}
