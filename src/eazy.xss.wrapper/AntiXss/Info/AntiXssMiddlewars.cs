@@ -90,7 +90,7 @@ namespace eazy.xss.wrapper.AntiXss.Info
             if (_error == null)
                 _error = new ErrorResponse
                 {
-                    Description = "Error from AntiXssMiddleware",
+                    Description = "Error from Xss Middleware",
                     ErrorCode = 500
                 };
 
