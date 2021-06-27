@@ -36,4 +36,4 @@ Add `UseEazyXssWrapper()` to aspnet core middleware pipeline.
 ```
 
 ## Contributing
-Please do open issues if you spot any bugs, or would like to suggest new features/changes.
+Please do open issues if you spot any bugs, or would like to suggest new features/changes... 
